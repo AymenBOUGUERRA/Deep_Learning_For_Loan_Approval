@@ -1,4 +1,4 @@
-# Deep_Learning_For_Credit_Approval
+# Deep_Learning_For_Loan_Approval
 I have lost the documentation and the presentation of this work, so there is little information but for what can be decucted from the code
 
 Here is the link for the saved model after the training (same model as the one in the code)
