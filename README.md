@@ -1,5 +1,5 @@
 # Deep_Learning_For_Credit_Approval
-I have lost the documentation and the presentation of this work, so there is little information but the one that is decucted from the code
+I have lost the documentation and the presentation of this work, so there is little information but for what can be decucted from the code
 
 Here is the link for the saved model after the training (same model as the one in the code)
 https://drive.google.com/drive/folders/1KlqjSGHgB83Ctvj_sMVQ3FxmImS5bI-u?usp=sharing
